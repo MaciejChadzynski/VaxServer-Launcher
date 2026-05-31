@@ -14,6 +14,6 @@
     }
   ],
   "clientFolder": "Tibia",
-  "newClientUrl": "PASTE_LATER",
+  "newClientUrl": "https://github.com/MaciejChadzynski/VaxServer-Client/releases/download/1.0.0/VaxServer_Client_v1.zip",
   "clientExecutable": "client.exe"
 }
